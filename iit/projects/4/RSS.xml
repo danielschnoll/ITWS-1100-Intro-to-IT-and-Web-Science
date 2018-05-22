@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0">
+  <channel>
+    <title>Pokemon Go News</title>
+    <link>http://pokemongohub.net/</link>
+    <description>Sourcing all of the latest Pokemon Go Information</description>
+
+    <item>
+      <title>Raid Bosses changes: March 5th, 2018</title>
+      <link>https://pokemongohub.net/post/news/raid-bosses-changes-march-5th-2018/</link>
+      <description>Rayquaza’s recent victory over Groudon and Kyogre brought us more than just weather boosted Egg hatches: double XP and a raid boss shake up!</description>
+      <pubDate>Mon, 05 Mar 2018 12:30:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Claydol Raid Boss Guide</title>
+      <link>https://pokemongohub.net/post/guide/claydol-raid-boss-guide/</link>
+      <description>In this guide you will learn how to take down this Tier 3 raid boss.</description>
+      <pubDate>Mon, 05 Mar 2018 13:30:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Charizard Raid Boss Guide</title>
+      <link>https://pokemongohub.net/post/guide/charizard-raid-boss-guide/</link>
+      <description>In this guide, you will learn how to handle Charizard in the Raid Boss scene.</description>
+      <pubDate>Mon, 05 Mar 2018 14:30:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Exeggutor Raid Boss Guide</title>
+      <link>https://pokemongohub.net/post/guide/exeggutor-raid-guide/</link>
+      <description>Exeggutor can be easily soloed just like any other Tier 2 Raid boss. But don’t sleep on him. If you’re looking for an easy solo with a great Pokemon, Exeggutor might be your best option.</description>
+      <pubDate>Mon, 05 Mar 2018 15:30:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Slowbro Raid Boss Guide</title>
+      <link>https://pokemongohub.net/post/guide/slowbro-solo-raid-guide/</link>
+      <description>Like all other Tier 2 Raid bosses, Slowbro can be easily soloed and has a wide variety of available counters. The question with Slowbro raid is not whether or not you can do it, but rather should you do it.</description>
+      <pubDate>Mon, 05 Mar 2018 16:30:00 +0000</pubDate>
+    </item>
+
+  </channel>
+</rss>

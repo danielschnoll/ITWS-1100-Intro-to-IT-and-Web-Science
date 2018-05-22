@@ -1,0 +1,44 @@
+html{
+	width: 1200px;
+	font-family: arial;
+}
+
+em{
+	color: cyan;
+}
+
+div{
+	width: 80%;
+}
+
+#mainBlock{
+	background: rgb(255, 238, 238);
+	width: 80%;
+	float: left;
+	clear: both;
+	padding: 25px;
+	border-style: double;
+	border-radius: 3em;
+	border-color: black;
+	margin-top: 0.5in;
+}
+
+#sections{
+	background: #ffe;
+	border-style: solid;
+	border-radius: 1em;
+	border-color: black;
+}
+.sectionheader{
+	border-bottom: double;
+	border-radius: 3;
+	border-color: black;
+}
+
+.myname{
+	color: purple;
+}
+
+.quizhead{
+	color: red;
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Daniel Schnoll - Quiz 2</title>    
+    <meta charset="UTF-8">
+    <link href="quiz2.css" rel="stylesheet" type="text/css"/>
+
+    <script src="jquery-3.1.1.min.js"></script>
+    <script src="quiz2.js"></script>
+  </head>
+
+  <body>
+    <div id="bodyBlock">
+      <h1>Intro to IT - Quiz 2</h1>
+      <h3>Daniel Schnoll</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio odio illo atque ducimus iusto totam tempora, aliquam deserunt consequuntur possimus, saepe itaque modi blanditiis cum asperiores quo, facilis ea vitae!</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus, quis accusamus architecto blanditiis, dignissimos beatae, quod amet ex, voluptate veniam porro optio minus sit rerum atque alias error. Recusandae, voluptates!</p>
+
+      <form id="addText" name="addText" action="addText.php" method="post">
+        <fieldset> 
+          <legend>Text Entry</legend>
+          <div class="formData">
+                          
+            <label for= "TextData" class="field">Paragraph Text:</label>
+            <div class="value"><input type="text" size="60" value="" name="TextData" id="TextData"/></div>
+            <input type="submit" value="save" id="save" name="save"/>
+          </div>
+        </fieldset>
+      </form>
+      <input type="submit" id = "clickMe" value = "Click Me"/>
+    </div>
+  </body>
+</html>

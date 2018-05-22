@@ -1,0 +1,40 @@
+{
+    "menuItem": [
+        {
+            "menuName": "Lab 2 - Resume",
+            "menuURL": "projects/2/resume.html"
+        },
+        {
+            "menuName": "Lab 3 - This Website",
+            "menuURL": "index.html"
+        },
+        {
+            "menuName": "Lab 4 - Atom Feed",
+            "menuURL": "projects/4/Atom.xml"
+        },
+        {
+            "menuName": "Lab 4 - RSS Feed",
+            "menuURL": "projects/4/RSS.xml"
+        },
+        {
+            "menuName": "Lab 5 - Javascript",
+            "menuURL": "projects/5/lab5.html"
+        },
+        {
+            "menuName": "Lab 6 - JQuery",
+            "menuURL": "projects/6/lab6.html"
+        },
+        {
+            "menuName": "Lab 8 - Cross Site Scripting",
+            "menuURL": "projects/8/lab8.html"
+        },
+        {
+            "menuName": "Lab 9 - AJAX and JSON",
+            "menuURL": "projects/9/lab9instructions.html"
+        },
+        {
+        	"menuName": "Lab 10 - MySQL",
+            "menuURL": "projects/10/Lab10Instructions.html"
+        }
+    ]
+}

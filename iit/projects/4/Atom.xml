@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+	<title>Pokemon Go News</title>
+	<subtitle>Sourcing all of the latest Pokemon Go Information</subtitle>
+	<link href="http://pokemongohub.net/" />
+	<id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
+	<updated>2018-03-05T21:30:00Z</updated>
+	<author>
+		<name>Daniel Schnoll</name>
+		<email>schnod@rpi.edu</email>
+	</author>
+ 
+	<entry>
+		<title>Raid Bosses changes: March 5th, 2018</title>
+		<link href="https://pokemongohub.net/post/news/raid-bosses-changes-march-5th-2018/" />
+		<id>urn:uuid:5cf3e1d4-c847-4523-9a2b-6508f620d951</id>
+		<updated>2018-03-05T12:30:00Z</updated>
+		<summary>Rayquaza’s recent victory over Groudon and Kyogre brought us more than just weather boosted Egg hatches: double XP and a raid boss shake up!</summary>
+		<contributor>
+         <name>ZeroGHan</name>
+       </contributor>
+	</entry>
+
+	<entry>
+		<title>Claydol Raid Boss Guide</title>
+		<link href="https://pokemongohub.net/post/guide/claydol-raid-boss-guide/" />
+		<id>urn:uuid:efaf7d21-0879-42f0-84db-952aa847c7d2</id>
+		<updated>2018-03-05T13:30:00Z</updated>
+		<summary>In this guide you will learn how to take down this Tier 3 raid boss.</summary>
+		<contributor>
+         <name>Kristy</name>
+       </contributor>
+	</entry>
+
+	<entry>
+		<title>Charizard Raid Boss Guide</title>
+		<link href="https://pokemongohub.net/post/guide/charizard-raid-boss-guide/" />
+		<id>urn:uuid:92d14732-af5d-4b06-84a6-fade54d20865</id>
+		<updated>2018-03-05T14:30:00Z</updated>
+		<summary>In this guide, you will learn how to handle Charizard in the Raid Boss scene.</summary>
+		<contributor>
+         <name>Josh Provines</name>
+       </contributor>
+	</entry>
+
+	<entry>
+		<title>Exeggutor Raid Boss Guide</title>
+		<link href="https://pokemongohub.net/post/guide/exeggutor-raid-guide/" />
+		<id>urn:uuid:2072a4f0-a31a-482c-89b7-82b34ff6eefd</id>
+		<updated>2018-03-05T15:30:00Z</updated>
+		<summary>Exeggutor can be easily soloed just like any other Tier 2 Raid boss. But don’t sleep on him. If you’re looking for an easy solo with a great Pokemon, Exeggutor might be your best option.</summary>
+		<contributor>
+         <name>BinetCauchy</name>
+       </contributor>
+	</entry>
+
+	<entry>
+		<title>Slowbro Raid Boss Guide</title>
+		<link href="https://pokemongohub.net/post/guide/slowbro-solo-raid-guide/" />
+		<id>urn:uuid:270926a4-ce85-48fe-b5b3-d18dc95b8873</id>
+		<updated>2018-03-05T16:30:00Z</updated>
+		<summary>Like all other Tier 2 Raid bosses, Slowbro can be easily soloed and has a wide variety of available counters. The question with Slowbro raid is not whether or not you can do it, but rather should you do it.</summary>
+		<contributor>
+         <name>pacadermic</name>
+       </contributor>
+	</entry>
+</feed>
